@@ -1,4 +1,16 @@
-Voer deze commandos uit op de hoogste folder van uw REPOSITORY folder
+Websitebuilder vb. Wix, squarespace, wordpress, webflow,...
+-> gebruiken om een website te bouwen 
+óf de htmlcode van een bestaande website in te geven (duurt lang!)
+(te downloaden via extensie chrome: 'webpage downloader'
+
+-> website aanpassen naar jouw ideeën
+
+-> Als website in orde is: Deze code (html) downloaden via chrome extensie.
+Deze gaan we in Github plaatsen (zo omzeil je het betalen voor je website en watermarks)
+Github = gratis host
+
+In Github plaatsen:
+Voer deze commandos uit op de hoogste folder van uw REPOSITORY folder:
 
 git add .
 git commit -m 'naam van de comit'
@@ -10,3 +22,4 @@ git pull
 
 (als hij dan nog moeilijk doet)
 git pull --force
+
